@@ -29,4 +29,6 @@ conda activate un_dashboard
 ##  How to run
 streamlit run Module3.py
 
+Video of dashboard interaction: https://us06web.zoom.us/rec/share/sWbKWdWLrOy4Nb046bI-va7PtNgoMs-kPzBzJg7XzC3BTb3UclpLSUOueDo8MwXt.jOqAarssgfBcNoZg?startTime=1752807202000
+Passcode: KP9QZ*Vh
 
